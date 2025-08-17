@@ -1,0 +1,8 @@
+# Токен для API Tinkoff Invest
+# Получите токен в личном кабинете Tinkoff: https://www.tinkoff.ru/invest/settings/
+# Создайте файл .env в этой папке и вставьте ваш токен:
+
+TINKOFF_TOKEN=ваш_токен_здесь
+
+# Пример:
+# TINKOFF_TOKEN=t.1234567890abcdef...
